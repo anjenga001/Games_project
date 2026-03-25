@@ -1,0 +1,900 @@
+id,name,year,rating_mean,rating_count,genre,adult_only
+1445618,Resident Evil Requiem,2026,0.97,63068,Survival Shooter,True
+1268338,Schedule I,2025,0.98,190505,Open World Shooter,False
+936040,Slay the Spire 2,2026,0.96,31290,Tactical Strategy,False
+1370228,Clair Obscur: Expedition 33,2025,0.97,124463,Tactical Role Playing,True
+1449264,PEAK,2025,0.95,130712,Open World Platformer,False
+1443842,DELTARUNE,2025,0.99,64502,Role Playing,False
+1590226,That level again 2,2025,0.91,10000,Casual Puzzle,False
+1582900,Monster Truck Demolition Derby,2026,0.99,4886,Casual Racing,False
+1354210,Dispatch,2025,0.98,95889,Casual Action Adventure,True
+1673848,DEATH STRANDING 2: ON THE BEACH,2025,0.97,47220,Open World Shooter,True
+906958,Mewgenics,2026,0.91,23858,Tactical Role Playing,False
+1533643,Creature Kitchen,2026,1.0,3294,Casual Simulation,False
+1516571,Megabonk,2025,0.95,53229,Survival Hack and Slash,False
+1668714,Berry Bury Berry,2026,0.99,3264,Casual Simulation,False
+1598771,Inotia 4,2025,0.83,558694,Casual Role Playing,False
+468870,Hollow Knight: Silksong,2025,0.89,138155,Open World Platformer,False
+1403470,Ena: Dream BBQ,2025,0.99,21388,Action,False
+1475352,Abiotic Factor,2025,0.96,32714,Open World Role Playing Shooter,True
+906298,Supermarket Simulator,2025,0.94,42507,Casual Simulation,False
+1643902,Marathon,2026,0.92,8984,Survival Shooter,False
+1647279,Super Battle Golf,2026,0.95,4179,Casual Shooter,False
+1420898,Umamusume: Pretty Derby,2025,0.94,33887,Arcade Role Playing,False
+1522724,Giant Rush: Complete Edition,2025,0.86,176684,Arcade Action Adventure,False
+543657,MENACE,2026,0.92,6379,Survival Role Playing,True
+1069431,Cairn,2026,0.93,4491,Open World Sport,False
+399236,WolfQuest,2025,0.98,13202,Open World Role Playing,False
+354648,Escape the Backrooms,2025,0.9,51622,Survival Action Adventure,True
+1578149,No Pain No Gain - Ragdoll Sandbox,2026,0.86,13791,Casual Simulation,False
+1409474,Where Winds Meet,2025,0.87,58451,Open World Role Playing,False
+447308,Dinkum,2025,0.93,18284,Open World Role Playing,False
+1366872,Poco,2025,0.99,5105,Open World Puzzle,False
+1269935,Tokyo Xtreme Racer,2025,0.96,10099,Open World Role Playing,False
+1523151,RV There Yet?,2025,0.9,29939,Casual Action Adventure,False
+1418632,Hazmob FPS: Online Shooter,2025,0.77,399384,Tactical Shooter,True
+1536234,BALL x PIT,2025,0.94,13595,Survival Shooter,False
+1581894,On-Together: Virtual Co-Working,2026,0.98,808,Casual Simulation,False
+1454473,Tower Wizard,2025,0.97,6293,Role Playing,False
+1560838,Slime Rancher 2,2025,0.9,24945,Open World Shooter,False
+1443759,Digimon Story Time Stranger,2025,0.96,7287,Role Playing,False
+1283542,BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT,2025,0.98,4502,Shooter,False
+1421529,Wuthering Waves,2025,0.9,21755,Casual Role Playing,False
+363902,Tower Unite,2025,0.91,19126,Open World Shooter,False
+1508525,"Warhammer 40,000: Space Marine 2 - 2-Year Anniversary Edition",2025,0.89,29446,Role Playing Shooter,True
+609245,Rooftops & Alleys: The Parkour Game,2025,0.97,5074,Open World Platformer,False
+1560881,Little Chef: Prototype,2026,0.94,1241,Casual Simulation,False
+1488938,Is This Seat Taken?,2025,0.98,4465,Casual Simulation,False
+1516855,Aviassembly,2025,0.97,5328,Open World Simulation,False
+897996,Shape of Dreams,2025,0.95,7025,Role Playing,False
+1530013,Town to City,2025,0.98,3765,Casual City Builder,False
+1558351,Z.A.T.O. // I Love the World and Everything In It,2025,0.99,3371,Action,False
+1467909,9 Kings,2025,0.94,8364,Tactical Role Playing,False
+345813,Soulstone Survivors,2025,0.92,12203,Survival Hack and Slash,False
+1325538,Kitty Loves Birds,2025,0.83,74453,Casual Action Adventure,False
+1514053,"No, I'm not a Human",2025,0.93,9338,Casual Simulation,False
+1474259,Shelldiver,2025,0.99,3115,Casual Platformer,False
+1215014,Strange Jigsaws,2025,1.0,2496,Casual Puzzle,False
+48349,Mortal Sin,2025,0.97,4300,Hack and Slash,True
+1537118,Mage Arena,2025,0.91,12497,Casual Role Playing Shooter,False
+1508583,Horror Tale 3: The Witch,2025,0.99,2575,Survival Shooter,False
+1655533,Cirno! Lifts a Boulder,2026,0.99,347,Open World Platformer,False
+1323956,One Turn Kill,2026,0.99,358,Strategy,False
+1339383,Easy Delivery Co.,2025,0.95,4966,Open World Racing,False
+1373545,Cast n Chill,2025,0.96,4071,Casual Role Playing,False
+1634185,My Winter Car,2025,0.94,6129,Open World Racing,False
+1459939,The Drifter,2025,0.98,2968,Action,False
+1533227,Waterpark Simulator,2025,0.96,4348,Casual Simulation,False
+1381427,FANTASY LIFE i: The Girl Who Steals Time,2025,0.94,5747,Open World City Builder,False
+1585731,ODDCORE,2026,0.97,441,Action,True
+243841,The Farmer Was Replaced,2025,0.97,3518,Casual Management,False
+1475229,Cheese Rolling,2025,0.96,4152,Action,False
+1673889,Legacy of Kain: Defiance Remastered,2026,0.99,277,Action Adventure,True
+663981,Deep Rock Galactic: Survivor,2025,0.85,29893,Arcade Shooter,False
+1637849,Terra Invicta,2026,0.83,6230,Strategy,False
+1607863,Holo vs Robo,2026,0.98,316,Survival Strategy,False
+1648256,D1AL-ogue,2026,0.95,620,Casual Puzzle,True
+1531800,Wicked Seed,2026,0.95,609,Survival Role Playing,True
+1406644,Haste,2025,0.92,7981,Open World Platformer,False
+1583589,ROMEO IS A DEAD MAN,2026,0.91,1340,Hack and Slash,True
+1419278,Monster Prom 4: Monster Con,2025,0.99,1718,Casual Strategy,False
+1384192,Monster Train 2,2025,0.94,4819,Tactical Turn-based Strategy,False
+1588117,Cleared Hot,2025,0.97,2454,Tactical Shooter,False
+1578445,Dungeon Raid,2026,0.94,632,Role Playing,False
+1632082,The Artisan of Glimmith,2026,1.0,206,Casual Puzzle,False
+1074557,DOOM: The Dark Ages,2025,0.86,20628,Shooter,True
+1534861,Slots & Daggers,2025,0.95,3660,Arcade Simulation,False
+1457246,Tiny Aquarium: Social Fishkeeping,2025,0.98,2056,Casual Simulation,False
+1354215,ELDEN RING NIGHTREIGN,2025,0.79,89152,Open World Role Playing,True
+663196,News Tower,2025,0.97,2470,Tactical Management,False
+1075822,The Hundred Line -Last Defense Academy-,2025,0.95,3573,Survival Turn-based Strategy,True
+1046541,Species: Unknown,2025,0.95,3272,Survival Shooter,True
+1376861,StarRupture,2026,0.83,4941,Open World Shooter,False
+1443840,Nioh 3,2026,0.83,5435,Hack and Slash,True
+1397425,PowerWash Simulator 2,2025,0.92,6169,Casual Simulation,False
+1602239,Snake.io,2025,0.83,36876,Survival Simulation,False
+1433606,Tailside: Cozy Cafe Sim,2026,1.0,157,Casual Role Playing,False
+1429532,The New Flesh,2025,0.98,1608,Action,False
+1401994,Blue Prince,2025,0.88,13673,Simulation,False
+1458428,Dying Light: The Beast,2025,0.85,24659,Open World Role Playing,True
+1521766,Grimshire,2025,0.98,1727,Survival Role Playing,False
+1617324,Polyarmory: High Calibre Love,2026,0.97,260,Shooter,True
+995681,Promise Mascot Agency,2025,0.98,1768,Open World Role Playing,False
+1427717,Catgirl,2025,0.99,1285,Role Playing,False
+1488301,Battlefield 6 Phantom Edition,2025,0.84,25532,Shooter,True
+1511089,Leaf it Alone,2025,0.98,1761,Casual Simulation,False
+906208,Tavern Keeper,2025,0.96,2516,Role Playing,False
+1563929,VEIN,2025,0.91,5919,Open World Role Playing Shooter,True
+1582161,Ye Guild Clerk!,2025,0.99,1144,Casual Simulation,False
+1071657,Squeakross: Home Squeak Home,2025,0.98,1391,Casual Puzzle,False
+1531635,Bogos Binted?,2026,0.92,624,Casual Shooter,False
+1598918,TR-49,2026,0.91,814,Puzzle,False
+1667388,PARANORMASIGHT: The Mermaid's Curse,2026,0.95,333,Role Playing,False
+1051813,Dobbel Dungeon,2026,0.98,214,Tactical Role Playing,False
+1502121,Whisper of the House,2025,0.97,1911,Casual Simulation,False
+1504425,Terraformental,2026,0.98,196,Survival Management,False
+1417426,Cornerpond,2025,0.97,1621,Casual Simulation,False
+1537986,Roadside Research,2026,0.88,1374,Casual Management,False
+1410369,Teddy's Haven - A Fantasy Inspired Shop Simulator,2025,0.97,1692,Casual Role Playing,False
+1594963,REANIMAL,2026,0.8,6844,Action Adventure,True
+1585321,Eternal Afternoon,2026,0.98,177,Open World Simulation,False
+1444348,FINAL FANTASY TACTICS - The Ivalice Chronicles,2025,0.93,3959,Tactical Role Playing,False
+1536050,PIGFACE,2025,0.97,1613,Tactical Shooter,False
+1585941,Hermit and Pig,2026,1.0,115,Tactical Role Playing,False
+865796,LOCKDOWN Protocol,2025,0.9,6032,Tactical Shooter,False
+1446994,DOGWALK,2025,0.98,1314,Action,False
+1352874,Duck Detective: The Ghost of Glamping,2025,0.96,1755,Casual Action Adventure,False
+1416754,Love Curse: Find Your Soulmate,2025,0.99,974,Role Playing,False
+1538781,Escape From Duckov,2025,0.94,9514,Role Playing Shooter,False
+1417583,The Elder Scrolls IV: Oblivion Remastered,2025,0.8,47766,Open World Role Playing,True
+362436,Farthest Frontier,2025,0.85,15217,Survival City Builder,False
+1593535,Space Rock Breaker,2025,0.97,1472,Action,False
+1339440,Ithya: Magic Studies,2025,0.98,1086,Action,False
+596688,Halcyon Days at Taoyuan,2026,0.95,261,Open World Role Playing,False
+1365745,Öoo,2025,0.99,883,Platformer,False
+1443039,Vital Shell,2025,0.97,1286,Survival Role Playing Shooter,False
+1051889,Void War,2025,0.94,2568,Survival Role Playing,False
+1653650,Vellum: Raid Night Study Hall,2026,0.99,119,Shooter,False
+1532675,Demon Bluff,2026,0.96,223,Casual Puzzle,False
+1523142,Penalty Shooters 2,2025,0.82,27607,Casual Sport,False
+1531033,FUMES,2025,0.97,1264,Casual Racing,False
+1528586,DrainSim,2026,0.92,524,Casual Simulation,False
+1438809,Pipistrello and the Cursed Yoyo,2025,0.99,928,Platformer,False
+1328743,CloverPit,2025,0.87,10207,Arcade Management,True
+1420925,Cucina Stellata: Starred Cuisine,2026,0.98,143,Action,True
+526288,Advent NEON,2025,0.86,12792,Arcade Platformer,False
+1052307,Jump Space,2025,0.89,6570,Shooter,False
+1403186,F1 25,2025,0.87,8876,Arcade Racing,False
+1486327,Catto's Post Office,2025,0.98,1036,Action,False
+298671,Cyber Knights: Flashpoint,2025,0.94,2336,Tactical Role Playing,False
+1690179,BRAVELY DEFAULT FLYING FAIRY HD Remaster,2026,0.96,201,Tactical Role Playing,False
+1592274,Shift At Midnight,2026,0.94,301,Survival Simulation,True
+1421338,Mycopunk,2025,0.93,2785,Tactical Shooter,False
+1449847,Tiny Bookshop,2025,0.91,4059,Casual Role Playing,False
+701421,Mars First Logistics,2025,0.94,2385,Open World Simulation,False
+1252362,SUPERVIVE,2025,0.85,13062,Tactical Role Playing Shooter,False
+1655992,Gum Squad,2026,1.0,87,Open World Shooter,False
+935799,Cash Cleaner Simulator,2025,0.92,3317,Casual Simulation,False
+1587728,YAPYAP,2026,0.84,2093,Action,False
+329744,Tainted Grail: The Fall of Avalon,2025,0.84,16659,Open World Role Playing Shooter,True
+1455097,Fever Meme,2025,0.92,2883,Casual Action Adventure,False
+1641669,Miami Paradise 2,2026,0.97,145,Role Playing,False
+1533012,Grounded 2,2025,0.85,11596,Open World Role Playing,False
+1474729,this game will end in 205 clicks.,2025,0.98,987,Action,False
+1406296,Dreams of Aether,2025,0.97,1097,Action,False
+416454,Pro Soccer Online,2025,0.88,6400,Tactical Sport,False
+1467915,Erenshor,2025,0.95,1582,Role Playing,False
+1541928,The Séance of Blake Manor,2025,0.94,2093,Puzzle,False
+1337253,My Little Puppy,2025,0.98,874,Casual Action Adventure,False
+1346324,Gnomes,2025,0.96,1303,Survival City Builder,False
+1535267,Chill with You : Lo-Fi Story,2025,0.98,895,Action,False
+1452779,Date Everything!,2025,0.88,5854,Casual Simulation,True
+1510571,Road to Empress,2025,0.96,1218,Casual Role Playing,False
+1476437,Battlefield 6,2025,0.72,150762,Shooter,True
+311064,vivid/stasis,2025,0.94,2056,Action,False
+1422734,Skin Deep,2025,0.96,1318,Simulation,False
+1347425,INAZUMA ELEVEN: Victory Road,2025,0.94,1859,Tactical Role Playing,False
+1529125,Absolum,2025,0.9,4030,Arcade Hack and Slash,False
+1588167,"Don't Stop, Girlypop!",2026,0.95,222,Action Adventure,False
+1545970,Onimusha 2: Samurai's Destiny,2025,0.94,2009,Action,False
+1512087,Chrono Gear: Warden of Time,2025,0.99,684,Action,False
+1450755,Keep on Mining!,2025,0.92,2488,Action,False
+906137,The Alters,2025,0.88,5611,Survival Simulation,False
+1641116,Deadeye Deepfake Simulacrum,2025,0.99,669,Tactical Role Playing Shooter,False
+1414561,METAL GEAR SOLID Δ: SNAKE EATER,2025,0.86,9706,Action Adventure,True
+1051719,Cozy Caravan,2026,0.88,736,Open World Platformer,False
+1546316,Stick Ragdoll Battle Simulator,2025,0.86,9393,Casual Strategy,False
+1619876,Everyday Devil,2026,0.96,142,Action,True
+1610360,War of Dots,2026,0.83,2049,Tactical Real-time Strategy,False
+1678498,Aurora Hills: Chapter 2,2026,1.0,69,Management,False
+1627036,Quarantine Zone: The Last Check,2026,0.79,5020,Management,True
+1372381,PROJEKT GODHAND,2026,0.97,116,Action,False
+1681647,Hungry Horrors,2026,0.97,116,Tactical Role Playing,False
+1516543,Trails in the Sky 1st Chapter,2025,0.93,2105,Tactical Role Playing,False
+1514337,Arena Breakout: Infinite,2025,0.81,21227,Survival Role Playing Shooter,False
+1612219,The Walking Trade,2026,0.9,506,Survival Shooter,False
+1401082,CARIMARA: Beneath the forlorn limbs,2025,0.97,892,Action,False
+264278,Snacko,2025,0.97,865,Casual Role Playing,False
+1291921,Hive Blight,2026,1.0,66,Tactical Role Playing,False
+1416505,Into the Dead: Our Darkest Days,2025,0.92,2389,Survival Management,True
+1534093,Wheelchair Wizards,2025,0.98,791,Casual Platformer,False
+1586418,Tired to Fall,2025,0.78,39689,Casual Puzzle,False
+1370225,South of Midnight,2025,0.9,3289,Platformer,True
+1653611,Neon Curves Racing,2026,0.98,98,Casual Racing,False
+1397572,Astro Prospector,2025,0.95,1254,Casual Simulation,False
+1533967,Q-UP,2025,0.96,1016,Casual Role Playing,False
+1315010,Cronos: The New Dawn,2025,0.88,5062,Survival Shooter,True
+1422300,Deadzone: Rogue,2025,0.86,7084,Shooter,False
+1395417,Tall Trails,2025,1.0,510,Casual Action Adventure,False
+1538231,RuneScape: Dragonwilds,2025,0.81,19840,Survival Role Playing,False
+521040,The Break-In,2025,0.91,2936,Platformer,False
+327827,M.A.S.S. Builder,2025,0.89,4076,Hack and Slash,False
+1629426,Plan B: Terraform,2025,0.92,2288,Strategy,False
+1268753,Omelet You Cook,2025,1.0,462,Casual Management,False
+1422571,The Mr. Rabbit Magic Show,2025,0.97,813,Puzzle,False
+1609255,Space Warlord Baby Trading Simulator,2026,0.92,310,Simulation,False
+1531266,MineMogul,2025,0.96,929,Strategy,False
+1488918,Master of Command,2025,0.93,1937,Strategy,False
+252700,WolfQuest,2025,0.92,2278,Open World Role Playing,False
+1650932,A Date With Chester 2,2026,0.99,77,Shooter,False
+1594663,Piece by Piece,2026,1.0,59,Casual Platformer,False
+1390696,ISLANDERS: New Shores,2025,0.97,766,Casual Turn-based Strategy,False
+1533636,your sisters,2025,0.99,563,Action,False
+1406664,Sultan's Game,2025,0.95,1234,Survival Role Playing,True
+1574935,Task Force Admiral - Vol.1: American Carrier Battles,2026,0.9,398,Strategy,False
+1425915,Pack,2025,0.96,965,Puzzle,False
+1580896,Menherarium,2026,0.93,214,Tactical Hack and Slash,False
+1429193,Sephiria,2025,0.97,707,Management,False
+489739,The Precinct,2025,0.89,4070,Open World Simulation,False
+905428,The Chef's Shift,2025,0.98,619,Casual Management,False
+1355113,Desktop Survivors 98,2025,0.96,1007,Survival Survival,False
+1531764,Body Sushi,2026,1.0,55,Casual Role Playing,False
+1685475,Smile More,2026,1.0,55,Simulation,False
+1410791,VOID/BREAKER,2025,0.94,1500,Shooter,False
+1565389,Whiskerwood,2025,0.94,1254,Open World City Builder,False
+1587817,RAM: Random Access Mayhem,2025,0.99,533,Shooter,False
+1585001,Tearscape,2026,0.94,201,Role Playing,False
+1621230,Monster Truck Arena,2026,0.78,4314,Casual Racing,False
+1629150,Cup Heroes,2025,0.85,8784,Casual Role Playing,False
+1519454,Bloodthief,2025,0.97,787,Hack and Slash,False
+1350920,and Roger,2025,0.98,618,Casual Simulation,False
+1512564,DRAGON QUEST VII Reimagined,2026,0.87,682,Tactical Role Playing,False
+1449015,Perfect Tides: Station to Station,2026,0.95,144,Casual Simulation,True
+1494359,Super Fantasy Kingdom,2025,0.91,2450,Role Playing,False
+1516607,Platypus Reclayed,2025,0.99,473,Arcade Shooter,False
+1538315,Bookshop Simulator,2025,0.97,742,Economy Management,False
+1654057,Spider Roulette,2026,0.98,85,Casual Puzzle,False
+1609260,Unusual Tales: Deep Below,2026,0.99,70,Survival Role Playing,False
+1325133,HER TREES : PUZZLE DREAM,2026,1.0,51,Puzzle,False
+1475930,Desktop Defender,2025,0.95,1068,Casual Strategy,False
+1535062,Kotama and Academy Citadel,2026,0.92,267,Role Playing,True
+1453991,Kindergarten 3,2025,0.94,1260,Action,True
+1532575,VIractal: World of Viractalia,2026,0.97,95,Tactical Role Playing,False
+675497,The King is Watching,2025,0.89,3109,Tactical City Builder,False
+1583986,Organized Inside,2025,0.97,677,Casual Simulation,False
+1021402,A Building Full of Cats 2,2025,0.98,556,Casual Puzzle,False
+1532815,Funguys Swarm,2025,0.99,480,Survival Action Adventure,False
+1535303,MAHOUTEQ!,2025,1.0,372,Action,False
+1489345,Heretic + Hexen,2025,0.94,1130,Role Playing Shooter,False
+1355570,Bendy: Lone Wolf,2025,0.92,2000,Survival Action Adventure,False
+1498741,Upload Labs,2025,0.9,2858,Simulation,False
+865660,Wagotabi: A Japanese Journey,2025,0.99,471,Casual Role Playing,False
+1278379,Angeline Era,2025,0.98,571,Open World Hack and Slash,False
+865607,Cauldron,2025,0.94,1191,Tactical Role Playing,False
+1533413,Wednesdays,2025,0.97,722,Action,False
+1517398,A Gentlemen's Dispute,2025,0.95,886,Action,False
+1074544,Star Birds,2025,0.92,1746,Casual City Builder,False
+1387142,Dune: Awakening,2025,0.76,47300,Open World Role Playing,True
+1467878,Parcel Simulator,2025,0.93,1370,Casual Simulation,False
+1583723,Super Chipflake Ü: Quest for the Uncooked Schnitzel,2026,0.93,181,Action,False
+1392707,Tempest Rising,2025,0.86,5347,Real-time Strategy,False
+1434613,Kathy Rain 2: Soothsayer,2025,0.96,860,Puzzle,False
+1533617,Evil Egg,2025,0.98,535,Arcade Shooter,False
+332619,The Ranch of Rivershine,2025,0.93,1330,Casual Role Playing,False
+1577209,Calyx,2026,0.94,161,Strategy,False
+1401952,Idle Zombie Wave: Premium,2025,0.81,15532,Survival Shooter,False
+1534777,Jackal,2026,0.92,211,Shooter,False
+1628628,Project KILLDANCE,2026,0.96,101,Tactical Strategy,False
+1354096,NINJA GAIDEN: Ragebound,2025,0.94,1072,Arcade Hack and Slash,False
+1021275,Hypogea,2025,0.98,486,Platformer,False
+1537241,FALLSTRUKTUR,2025,0.96,737,Platformer,False
+1512537,FATAL FRAME II: Crimson Butterfly REMAKE,2026,0.86,722,Survival Action Adventure,True
+1531902,Small Farm,2025,0.91,1891,Casual Management,False
+1435180,Far Fishing,2025,0.98,488,Casual Simulation,False
+1575191,BLACK SOULS II,2025,0.97,630,Open World Role Playing,True
+1479986,A World of Keflings,2025,0.99,376,Casual Simulation,False
+1427208,Super Woden: Rally Edge,2025,0.96,683,Arcade Racing,False
+1532875,MateEngine,2025,0.99,406,Action,False
+1531937,Oasis Driver for Windows Mixed Reality,2025,0.99,372,Action,False
+1357298,Replicube,2025,0.98,479,Simulation,False
+1537058,Fish to Dish: Idle Sushi,2025,0.97,595,Casual Role Playing,False
+945871,Bits & Bops,2025,0.95,935,Action,False
+1351573,Conquest Dark,2025,0.91,1815,Role Playing,True
+1480004,A Webbing Journey,2025,0.92,1648,Simulation,False
+522112,The Complex: Expedition,2025,0.92,1559,Simulation,False
+1530503,Aethermancer,2025,0.94,1128,Tactical Role Playing,False
+1443762,SILENT HILL f,2025,0.82,10652,Survival Action Adventure,True
+1380846,SHINOBI: Art of Vengeance,2025,0.92,1483,Hack and Slash,False
+1610392,WolfQuest,2025,0.84,8017,Open World Role Playing,False
+444322,Demonschool,2025,0.95,797,Tactical Role Playing,False
+1377600,Car Dealer Simulator,2025,0.88,3246,Open World Management,False
+1587626,Streetdog BMX,2026,0.94,124,Arcade Sport,False
+1590898,Light Up The Town,2025,0.96,657,Casual Simulation,False
+1578365,Revolution Idle,2025,0.85,5885,Casual Simulation,False
+1572014,Kingdoms of the Dump,2025,0.95,771,Tactical Role Playing,False
+581026,Monday Meltdown,2026,0.96,82,Action,True
+103044,IdleOn,2025,0.79,20013,Casual Role Playing,False
+906551,Seclusa,2026,0.98,56,Casual Simulation,False
+1349998,魔法少女ノ魔女裁判,2025,0.98,397,Simulation,True
+1484033,Monster Hunter Stories 3: Twisted Reflection,2026,0.81,1675,Open World Role Playing,False
+1467881,House of Legacy,2025,0.95,785,Role Playing,False
+1418641,Click and Conquer,2025,0.93,1288,Casual Simulation,False
+1339514,Lethal Dungeon,2026,0.98,55,Role Playing,False
+1607825,WISE GUYS,2026,0.93,157,Survival Shooter,False
+1538893,Gemporium: A Cute Mining Sim,2025,0.95,758,Casual Management,False
+1292539,Beatblock,2025,0.98,460,Simulation,False
+1421940,The Deadseat,2025,0.98,416,Survival Simulation,False
+1511415,Dungeon Antiqua 2,2026,0.97,68,Role Playing,False
+1277256,Konfronto,2026,0.97,68,Tactical Management,False
+663997,Cube Chaos,2025,0.95,744,Management,False
+1511578,Strange Antiquities,2025,0.9,1991,Casual Simulation,False
+1455072,ScootX,2025,0.93,1079,Casual Sport,False
+1442425,Rune Factory: Guardians of Azuma,2025,0.92,1456,Role Playing,False
+1581319,ROUTINE,2025,0.87,3998,Survival Action Adventure,False
+1535685,Touhou Dystopian,2025,0.98,421,Role Playing,False
+1358038,As Long As You're Here,2025,1.0,293,Simulation,False
+1438566,LORT,2026,0.8,2208,Shooter,False
+1664322,Horse Riding Classic,2026,0.98,53,Open World Simulation,False
+1557123,DateBoy,2025,1.0,289,Simulation,False
+123172,Driftwood,2025,0.93,995,Casual Racing,False
+1340056,gogh: Focus with Your Avatar,2025,0.94,948,Casual Role Playing,False
+1565349,Dinocop,2025,0.97,439,Action,False
+1536001,Maltese's Fluffy Onsen,2025,0.97,450,Casual Simulation,False
+1673340,Let's Save Mice,2026,0.96,77,Open World Platformer,False
+1440681,Guilty as Sock!,2025,0.88,2646,Casual Simulation,False
+1594895,Toilet 8,2026,0.97,65,Survival Simulation,True
+1411573,Shleep,2025,0.96,582,Action,False
+1592270,Tiny Robots: Portal Escape,2026,0.83,1020,Casual Puzzle,False
+1579311,Abyss Manager Idle,2026,0.98,51,Casual Management,False
+1450231,The Monster Breeder,2025,1.0,258,Tactical Role Playing,False
+1533266,The Last Caretaker,2025,0.84,5783,Simulation,False
+1482399,Len's Island,2025,0.86,4114,Open World Hack and Slash,False
+1340421,Blightstone,2026,0.92,142,Role Playing,False
+1564281,Brother Hai's Pho Restaurant,2026,0.95,86,Casual Simulation,False
+1598815,DRUDGE,2026,0.96,75,Management,True
+1654052,CPU Invaders - Aim Hero,2026,0.98,49,Tactical Shooter,False
+1435185,"Warhammer 40,000: Boltgun - Words of Vengeance",2025,0.91,1366,Arcade Shooter,True
+1457732,Doloc Town,2025,0.98,361,Casual Role Playing,False
+1493801,Unfair Flips,2025,0.91,1593,Casual Simulation,False
+1679548,Star Trek: Voyager - Across the Unknown,2026,0.78,2488,Survival Management,False
+1583339,Nocan's Quest: Sex Gold Glory,2026,0.97,62,Role Playing,True
+1533000,My Card Is Better Than Your Card!,2025,0.96,545,Casual Turn-based Strategy,False
+1488261,The Wandering Village,2025,0.86,3856,Survival City Builder,False
+1489873,MakeRoom,2025,0.95,627,Casual City Builder,False
+1570429,Eventide Matter,2025,0.96,562,Role Playing,False
+1387768,Without a Dawn,2025,0.96,494,Action,False
+1067656,Verho - Curse of Faces,2025,0.95,622,Role Playing,False
+882051,HYPERBEAT,2025,1.0,255,Action,False
+1419270,Old Skies,2025,0.94,801,Action,False
+1426637,Drop Duchy,2025,0.91,1328,Tactical Simulation,False
+884059,Old School Rally,2025,0.91,1310,Racing,False
+1532037,Serre,2025,0.99,268,Action,False
+1535500,Perfume Atelier,2026,0.97,60,Casual Role Playing,False
+1583826,The Ratline,2026,0.97,60,Puzzle,False
+1536074,Yinglet Creator,2025,1.0,229,Action,False
+1497236,Water Box: Sandbox Playground,2025,0.94,694,Casual Simulation,False
+1019373,Goodnight Universe,2025,0.93,893,Action,False
+1533517,Escape Simulator 2,2025,0.9,1548,Casual Simulation,False
+1074560,UNBEATABLE,2025,0.85,4581,Action Adventure,False
+1446249,Camper Van: Make it Home,2025,0.94,800,Casual Simulation,False
+1476467,s.p.l.i.t,2025,0.93,2117,Simulation,True
+1471618,Fantasy Maiden Wars: Dream of the Stray Dreamer,2025,0.99,259,Role Playing,False
+1557030,Assetto Corsa Rally,2025,0.86,3806,Racing,False
+1599175,Clockwork Cleanup,2025,1.0,240,Casual Strategy,False
+43829,Liftoff: Micro Drones,2025,0.94,724,Racing,False
+1531825,Brush Burial: Gutter World,2025,0.95,589,Shooter,True
+1350178,Tower Dominion,2025,0.88,2325,Tactical Management,False
+1372451,Gem Miner TD,2026,0.96,50,Strategy,False
+1423237,StarVaders,2024,0.98,2233,Action,False
+1531382,BAIONLENJA,2025,0.99,268,Platformer,False
+1406668,Squirreled Away,2025,0.94,650,Open World Management,False
+173260,SCUM,2025,0.75,33719,Open World Action Adventure,True
+1590028,Sektori,2025,0.94,658,Arcade Shooter,False
+1588627,Infinite Lives,2025,0.91,1244,Action Adventure,True
+1304088,Sunderfolk,2025,0.91,1278,Role Playing,False
+1501891,Europa Universalis V,2025,0.8,13246,Strategy,False
+1504272,Fishing at the Lake Full of Cats,2025,1.0,211,Action,False
+1472253,Wires And Whiskers,2025,0.96,481,Casual Action Adventure,False
+943733,Mohrta,2025,0.92,1022,Action Adventure,False
+906256,Vellum,2025,0.91,1238,Arcade Shooter,False
+411241,Abandoned Archive,2025,0.95,529,Action,False
+1587285,Delivery & Beyond,2026,0.94,96,Action Adventure,False
+1504265,Kaelaverse: Pemascape,2025,0.99,273,Casual Action Adventure,False
+1632078,Blackjack Descent,2026,0.95,77,Simulation,False
+1417416,Alchemy Factory,2025,0.92,976,Casual Strategy,False
+1443847,MISERY,2025,0.83,6572,Simulation,False
+566000,Hell is Us,2025,0.87,2677,Open World Role Playing,True
+235508,Havendock,2025,0.92,950,Survival Management,False
+1350085,City Tales: Medieval Era,2026,0.89,225,Economy City Builder,False
+1277247,Primordialis,2025,0.94,652,Simulation,False
+1655527,Log Riders,2026,0.92,127,Casual Platformer,False
+905144,Preserve,2025,0.96,418,Tactical City Builder,False
+865769,AI LIMIT,2025,0.85,3665,Hack and Slash,True
+1424212,despelote,2025,0.95,492,Role Playing,False
+1664726,Quickie Massage,2026,0.95,75,Casual Simulation,False
+1568015,Midori no Kaori,2025,0.97,331,Casual Simulation,False
+204424,The Slormancer,2025,0.86,2998,Hack and Slash,False
+1591261,Bad Bitch Blasters,2025,1.0,191,Role Playing,False
+37635,Suit for Hire,2025,0.95,520,Tactical Shooter,False
+1403196,Prison Escape.io,2025,0.8,10380,Survival Simulation,False
+906241,HumanitZ,2026,0.74,4496,Open World Role Playing Shooter,True
+1523381,Chronigma,2025,1.0,189,Puzzle,False
+1582293,Bugtopia,2025,0.98,258,Casual Management,False
+905524,The Beekeeper's Picnic - A Sherlockian Adventure,2025,0.97,340,Puzzle,False
+1461507,Logic Bombs,2025,0.95,465,Puzzle,False
+1391491,The Karters 2: Turbo Charged,2025,0.94,646,Casual Racing,False
+1448129,Galactic Glitch,2025,0.97,362,Arcade Shooter,False
+1532270,Ascent DX,2025,1.0,186,Action,False
+1378597,Mini Cozy Room: Lo-Fi,2025,0.96,384,Action,False
+1370680,There Are No Orcs,2025,0.96,393,Strategy,False
+489300,Baby Steps,2025,0.89,1533,Casual Simulation,True
+1574566,A Case of Fraud,2025,0.98,266,Action,False
+1532278,taking my Dark Knight Girlfriend to the corner store,2025,0.99,234,Action,False
+1415294,inZOI,2025,0.79,13221,Casual City Builder,True
+1340294,Ratatan,2025,0.91,1147,Casual Role Playing,False
+1586070,Earth Must Die,2026,0.9,193,Role Playing,False
+1475867,INSERT GAME HERE,2025,0.94,643,Casual Action Adventure,False
+1420072,Legend Battles,2026,0.93,107,Survival Shooter,False
+1594262,Second Stellar,2025,0.99,197,Action,False
+1273195,Five Nights at Freddy's: Secret of the Mimic,2025,0.82,6433,Survival Action Adventure,False
+905915,Out of Action,2026,0.84,527,Shooter,False
+1361217,He is Coming,2025,0.87,2163,Role Playing,False
+1534082,Doodle Empires,2025,0.93,684,Strategy,False
+1676473,Crisol: Theater of Idols,2026,0.81,1009,Survival Shooter,False
+1624888,SCP-3008: Infinite Store,2026,0.94,71,Survival Simulation,False
+1454692,A Game About A Black Hole,2025,0.89,1477,Casual Management,False
+1609273,Starship Troopers: Ultimate Bug War!,2026,0.85,434,Arcade Shooter,True
+1021330,Metro Gravity,2025,0.94,565,Platformer,True
+1491716,Light-It Up,2025,0.8,9993,Casual Platformer,False
+1607548,Genokids,2025,1.0,168,Hack and Slash,False
+1367738,The Boba Teashop,2025,0.93,651,Casual Simulation,False
+220186,Skate Story,2025,0.97,1562,Arcade Role Playing,False
+1303671,Chronoquartz,2025,0.99,185,Casual Puzzle,False
+1416378,Sandboxels,2025,0.95,492,Casual Simulation,False
+1395004,PEPPERED: an existential platformer,2025,0.95,422,Action,False
+1434625,Hotel Architect,2025,0.96,389,Casual City Builder,False
+232802,Pull Stay,2025,1.0,160,Arcade Hack and Slash,False
+1527990,Little Rocket Lab,2025,0.92,859,Role Playing,False
+1652471,Cartapli : Fold Quest,2026,0.95,59,Tactical Role Playing,False
+1415874,Mole Mole,2025,0.96,355,Puzzle,False
+1407848,Miscrits: World of Creatures,2025,0.9,1213,Tactical Role Playing,False
+1542112,Sheepherds!,2025,0.99,195,Casual Role Playing,False
+1535546,Rewind 99,2026,0.87,263,Open World Management,False
+1281109,Goblin Cleanup,2025,0.9,1194,Casual Simulation,False
+1541795,Fellowship,2025,0.8,9344,Open World Role Playing,False
+1386484,Creepy Redneck Dinosaur Mansion 3,2025,0.97,303,Survival Role Playing,False
+1673862,Dino Crisis 2,2026,0.88,227,Survival Shooter,False
+1455957,"Detective Instinct: Farewell, My Beloved",2025,0.97,277,Action,False
+1445483,Scott Pilgrim EX,2026,0.87,295,Role Playing,False
+1464795,Daniel Linssen's Typing Challenge,2025,0.96,344,Action,False
+1577929,Undusted: Letters from the Past,2025,0.97,609,Casual Simulation,False
+1386245,House of Necrosis,2025,0.95,447,Tactical Role Playing,False
+1580967,Yuki「清醒梦」,2025,1.0,152,Action,False
+661544,Windswept,2025,0.96,333,Platformer,False
+1508178,Trench Face,2025,0.98,233,Survival Role Playing,False
+1537377,Sip Fisher,2025,0.97,297,Action,False
+1538676,GONE Fishing,2025,0.91,841,Action Adventure,False
+1419701,Ghost Town,2025,0.96,309,Puzzle,False
+1415929,Devil Spire Falls,2025,0.96,352,Open World Role Playing,False
+1494471,Returns Outlet Simulator,2025,0.98,231,Simulation,False
+1594365,Myths are 100% True,2025,1.0,149,Platformer,False
+1356017,Kemono Teatime,2025,0.96,318,Casual Platformer,False
+1536457,Drill Bird,2025,0.98,216,Casual Platformer,False
+1366845,Ambidextro,2025,0.97,256,Arcade Platformer,False
+1469237,Fretless: The Wrath of Riffson,2025,0.9,1040,Tactical Role Playing,False
+906638,The Necromancer's Tale,2025,0.93,609,Role Playing,False
+1421538,Warfare Legacy Collection,2025,0.93,558,Strategy,False
+1410603,Lab Rat,2025,0.98,242,Quiz,False
+1472372,Back to the Dawn,2025,0.9,1194,Role Playing,True
+1535252,waxweaver,2025,0.97,266,Survival Role Playing,False
+1585544,We Escaped a Twisted Game,2025,1.0,144,Action,False
+1368919,Demonic Mahjong,2025,0.96,331,Casual Strategy,True
+1388414,Caput Mortum,2025,0.97,249,Survival Action Adventure,False
+1498698,Find My Frogs,2025,1.0,141,Casual Puzzle,False
+1691403,The Wellmonts Case,2026,0.92,90,Simulation,False
+1498148,Deep Sleep: Labyrinth of the Forsaken,2025,0.95,392,Role Playing,False
+1538552,MU: Dark Epoch,2025,0.91,810,Role Playing,False
+1532293,Scratch Inc.,2025,0.9,935,Casual Management,False
+1470162,Word Play,2025,0.91,892,Casual Strategy,False
+1356102,The Great Villainess: Strategy of Lily,2025,0.94,499,Tactical Turn-based Strategy,False
+1577088,Mall Simulator,2025,0.9,993,Casual Simulation,False
+899001,Rift Riff,2025,0.96,280,Strategy,False
+1585591,Birds Watching,2026,0.91,104,Open World Simulation,False
+1357708,DISCOPUP,2025,0.97,230,Action,False
+1502153,Idle Waters,2025,0.99,170,Casual Strategy,False
+906599,SpellRogue,2025,0.9,1077,Tactical Role Playing,False
+1588802,Crabmeat,2026,0.92,80,Survival Shooter,False
+1463521,Yaoling: Mythical Journey,2025,0.94,428,Casual Role Playing,False
+142257,Viscerafest,2025,0.91,743,Arcade Shooter,False
+1689932,SKINFACE,2026,0.9,130,Shooter,True
+1351581,Juufuutei Raden's Guide for Pixel Museum,2025,0.99,148,Casual Puzzle,False
+1470145,Kaizen: A Factory Story,2025,0.94,440,Economy Simulation,False
+1464819,KUUKIYOMI: Consider It World - Thailand Ver.,2026,0.95,46,Casual Simulation,False
+664170,Cross Blitz,2025,0.89,1084,Tactical Role Playing,False
+907141,Dice Gambit,2025,0.93,489,Tactical Role Playing,False
+1472086,Fill Up The Hole,2025,0.91,759,City Builder,False
+1410401,Merge Maestro,2025,0.96,289,Strategy,False
+1360535,Run TavernQuest,2026,0.92,86,Role Playing,False
+1537154,Time Survivor,2026,0.92,83,Survival Shooter,False
+1527948,CHARK,2026,0.92,83,Casual Role Playing,False
+1376364,The Happyhills Homicide 2: Out For Blood,2025,0.95,349,Puzzle,True
+1578713,Homura Hime,2025,0.94,387,Hack and Slash,False
+1239608,Dungeon Rampage,2025,0.91,747,Casual Role Playing,False
+1459341,System Shock 2: 25th Anniversary Remaster,2025,0.88,1454,Role Playing,False
+1561403,Help! I'm Turning Into A Mermaid!,2026,0.94,52,Management,True
+290389,Survivalist: Invisible Strain,2025,0.87,1665,Open World Role Playing,True
+1403900,KARMA: The Dark World,2025,0.91,758,Role Playing,True
+1367754,Dice With Death,2025,0.93,520,Strategy,False
+1538183,Level Devil,2025,0.96,247,Casual Action Adventure,False
+1531460,1998: The Toll Keeper Story,2025,0.98,169,Simulation,False
+1590543,WAR RATS: The Rat em Up,2025,0.96,279,Shooter,True
+1409996,Kitchen Sync: Aloha!,2025,0.99,136,Casual Role Playing,False
+1396369,Many Nights a Whisper,2025,0.94,359,Action,False
+1482401,Fate/hollow ataraxia REMASTERED,2025,0.97,221,Action,False
+1433191,Coal LLC,2025,0.91,674,Role Playing,False
+1426535,Whisper Mountain Outbreak,2025,0.89,1011,Survival Action Adventure,False
+1393573,LONESTAR,2025,0.9,873,Tactical Role Playing,False
+1514342,It Takes a War,2025,0.93,471,Tactical Shooter,False
+906838,Planetary Life,2025,0.94,410,Management,False
+1514948,Monster Care Simulator,2025,0.94,392,Casual Management,False
+492904,BAPBAP,2025,0.85,2467,Strategy,False
+1581461,Replicat,2025,1.0,114,Casual Strategy,False
+1541731,Last Report,2025,0.89,986,Simulation,True
+1581207,Cats and Seek: Tokyo,2025,0.98,163,Casual Simulation,False
+1594765,Babushka's Glitch Dungeon,2025,0.99,131,Casual Platformer,False
+870815,Dolls Nest,2025,0.91,727,Role Playing Shooter,False
+1556891,Curiosity: A Cat Climbing Game,2025,0.97,202,Action,False
+576463,MotionRec,2025,1.0,111,Casual Action Adventure,False
+379592,Forever Skies,2025,0.81,4861,Open World Management,False
+1470562,A Few Quick Matches,2025,0.85,2197,Casual Fighting,False
+1634436,Wireworks,2026,0.89,142,Management,False
+1480950,Tingus Goose,2025,0.92,524,Casual Management,False
+1430308,Piñata Go Boom,2025,0.93,443,Casual Management,False
+1410330,burrilka,2025,0.94,359,Simulation,False
+1075643,TouHou Makuka Sai ~ Fantastic Danmaku Festival Part III,2025,0.97,209,Shooter,False
+1565664,Lone Fungus: Melody of Spores,2025,0.97,184,Role Playing,False
+1584749,War Escape,2026,0.78,1220,Casual Puzzle,False
+1494443,Car Driving School Simulator,2025,0.77,10000,Casual Racing,False
+1507928,BEERCRUSH,2025,1.0,105,Action,False
+1582473,Coconut Simulator 2,2025,0.99,140,Casual Simulation,False
+1369749,Mashina,2025,0.98,155,Management,False
+1351582,Moonlighter 2: The Endless Vault,2025,0.88,1073,Hack and Slash,False
+169490,Escape from Mandrillia,2025,0.99,139,Survival Shooter,True
+1377599,ReCharge RC: High Voltage,2025,0.95,261,Arcade Racing,False
+1430134,Labyrinth Of The Demon King,2025,0.87,1422,Survival Role Playing Shooter,True
+1256888,Jupiter Hell Classic,2025,0.97,180,Tactical Role Playing,False
+1372222,Emissary Zero,2025,0.88,1181,Survival Simulation,False
+1580286,Death Howl,2025,0.9,741,Role Playing,False
+1537710,Love is All Around 2,2025,0.97,177,Casual Role Playing,False
+1370181,NINJA GAIDEN 4,2025,0.85,2192,Hack and Slash,True
+1229061,Heroes of the Seven Islands,2025,1.0,100,Open World Role Playing,False
+1440231,Heavy Spoilers RPG: The true identity of the final enemy is the hero's father,2025,0.99,118,Role Playing,False
+1386442,Flesh Made Fear,2025,0.96,245,Survival Survival,True
+1358075,DUET,2025,0.99,134,Action,False
+1575700,CiniCross,2026,0.85,257,Casual Strategy,False
+1417934,美女，请别影响我成仙,2025,0.97,174,Casual Role Playing,False
+1405387,RAVEN-STAR,2025,0.96,216,Platformer,False
+1071662,Eriksholm: The Stolen Dream,2025,0.89,941,Action Adventure,False
+1628642,Project Homecoming Haven,2026,0.9,92,Casual Simulation,False
+1339527,Nice Day for Fishing,2025,0.85,1998,Open World Role Playing,False
+1399955,Paper Animal Adventure,2025,0.99,114,Tactical Role Playing,False
+965243,Dunjungle,2025,0.98,130,Platformer,False
+1415919,How to Train Your Cock,2025,0.93,412,Casual Simulation,False
+578907,Toree Saturn,2025,0.94,299,Platformer,False
+1426056,Sharks and Minnows,2025,0.95,250,Action,False
+1539014,BIRDCAGE,2025,0.97,171,Arcade Hack and Slash,False
+1337185,Ark Nova,2025,0.94,343,Strategy,False
+1533102,Stone Simulator – Just Be a Rock,2025,0.94,316,Casual Simulation,False
+1406732,Fused 240,2025,0.94,315,Action,False
+1517927,Axyz,2025,1.0,94,Action,False
+1445592,Sword of the Sea,2025,0.88,987,Action,False
+1587623,DRAPLINE,2025,0.97,156,Role Playing,False
+1535886,Rage Quit,2025,0.97,181,Hack and Slash,True
+1453454,Condo,2025,0.97,155,Simulation,False
+1536955,Not Monday Cafe,2025,0.96,192,Casual Simulation,False
+1400732,Analog - Skin off,2025,0.96,192,Simulation,False
+1490228,The Bazaar,2025,0.81,4298,Strategy,False
+1388592,Tinkerlands,2025,0.89,797,Open World Role Playing,False
+968661,The Lacerator,2025,1.0,91,Survival Management,False
+898013,SWORN,2025,0.83,2834,Hack and Slash,False
+1075856,Nordhold,2025,0.86,1486,Tactical City Builder,False
+361318,Research Story,2025,0.95,244,Open World Role Playing,False
+1428091,Touhou Kinjoukyou: Fossilized Wonders,2025,0.95,244,Shooter,False
+1339984,Cell Command,2025,0.98,125,Casual Role Playing,False
+1647510,Unstrange,2026,0.93,48,Action,False
+1405782,Zefyr: A Thief's Melody,2025,0.96,190,Platformer,False
+1414378,ShaderGlass,2025,0.96,201,Action,False
+1362578,"Her Love, Like Poison",2025,0.96,201,Action,True
+1443652,Return to Ash,2025,1.0,90,Action,False
+1452195,The Jackbox Party Pack 11,2025,0.93,357,Casual Role Playing,False
+1436912,BLOOD MALL,2025,0.94,300,Action,False
+1410477,BioMenace Remastered,2025,0.99,108,Platformer,False
+1403230,The Darkest Files,2025,0.94,323,Simulation,False
+1443674,Lumines Arise,2025,0.9,700,Casual Puzzle,False
+1475474,Execute,2025,0.93,351,Economy Role Playing,True
+1430318,Artis Impact,2025,0.93,359,Tactical Role Playing,False
+663687,Gatekeeper,2025,0.86,1522,Shooter,False
+580897,Million Depth,2025,0.98,122,Strategy,False
+1533511,Flashpoint Campaigns: Cold War,2025,0.99,106,Tactical Turn-based Strategy,False
+1540083,A simple job,2025,0.95,229,Action,False
+1537140,Stunt Bike Extreme,2025,0.88,1020,Casual Racing,False
+1487468,Inventorix,2025,1.0,86,Strategy,False
+1467911,As We Descend,2025,0.92,464,Tactical Role Playing,False
+600496,PolyPine,2025,0.96,205,Casual Management,False
+1292556,The Bleakest Keep,2025,0.91,527,Hack and Slash,True
+1281416,Splintered,2025,0.97,159,Tactical Role Playing,False
+1075581,Crimson Capes,2026,0.9,88,Action Adventure,True
+1453284,Road Trip to the End of the World,2025,0.97,146,Action,False
+1576919,Duckoleon,2025,0.98,118,Tactical Shooter,False
+1456701,Misc. A Tiny Tale,2025,0.99,102,Action,False
+1581196,Decollate Decoration,2026,0.93,46,Casual Platformer,False
+1667375,SUPER BOMBERMAN COLLECTION,2026,0.9,81,Casual Action Adventure,False
+263158,Ghost Watchers,2025,0.81,3862,Survival Action Adventure,True
+1573340,My Little Spider,2025,0.97,144,Casual Simulation,False
+1506075,Tower Networking Inc.,2025,0.96,180,Strategy,False
+1405036,Puttler,2025,0.95,212,Casual Sport,False
+1576225,Tiny Terraces,2025,0.95,241,Casual Management,False
+1578200,Turnbound,2026,0.89,106,Strategy,False
+1400298,Desk Paws,2025,1.0,81,Casual Simulation,False
+1615735,Drunk Driving Simulator,2025,0.96,167,Simulation,False
+1369384,The Flayed Man,2025,0.93,304,Action,True
+1532102,Incredicer,2025,0.86,1483,Casual Management,False
+1577578,Knights College 2,2025,0.98,129,Casual Simulation,True
+663603,Shape Shifter: Formations,2025,0.94,286,Arcade Role Playing Shooter,False
+1536136,Sushi Cat Legacy Collection,2025,0.97,142,Tactical Turn-based Strategy,False
+1573807,Roboquest VR,2025,0.93,320,Casual Shooter,False
+1350103,Hell Clock,2025,0.85,1674,Hack and Slash,False
+1474694,Monument Valley 3,2025,0.93,336,Casual Quiz,False
+1533784,Barrel Roll,2025,0.98,128,Strategy,False
+1599138,Your Mom,2025,0.95,209,Casual Role Playing,False
+1530502,DRAGON QUEST I & II HD-2D Remake,2025,0.9,653,Tactical Role Playing,False
+1481462,Once Upon A KATAMARI,2025,0.87,1158,Casual Action Adventure,False
+1534288,The Spike Cross,2025,0.91,522,Casual Platformer,False
+1585465,Escape from Mental Hospital,2025,0.83,2152,Casual Puzzle,False
+1376191,SuperQuest,2025,1.0,78,Role Playing,False
+1382324,Super 10 Pin,2025,1.0,78,Casual Sport,False
+1396410,Forefront,2025,0.88,802,Shooter,False
+1587101,Heroes of Valor,2025,0.89,684,Casual Shooter,False
+1530010,Deadly Days: Roadtrip,2025,0.91,455,Hack and Slash,False
+1413561,Hollowspire,2025,0.9,579,Casual Strategy,False
+603294,Voyagers of Nera,2025,0.86,1228,Open World Role Playing,False
+1530942,FIND KITTENS 6: After us,2025,0.98,111,Action,False
+1419478,tuna hake's underwater,2025,1.0,77,Action,False
+1537941,Psycutlery,2025,1.0,77,Casual Platformer,False
+1397350,PancitoMerge,2025,1.0,77,Casual Management,False
+1364752,FIND ALL 6: Netherlands,2025,0.99,95,Casual Puzzle,False
+1537593,"Upwards, Rain! The Post Office of Farewells",2025,0.99,95,Action,False
+12123,I Fetch Rocks,2025,0.96,162,Survival Management,False
+1535446,BLACKSHARD,2025,0.96,184,Action,False
+1406641,Escape The Mad Empire,2025,0.96,184,Role Playing,False
+1488937,Whimside,2025,0.95,224,Action,False
+1023478,Back to Hearth,2025,1.0,76,Action,False
+1612790,CPU Invaders - 3i Atlas,2025,1.0,76,Casual Shooter,False
+1528197,Out and About,2025,0.94,261,Open World Role Playing,False
+1616611,Flotsam,2025,0.84,1956,Open World City Builder,False
+1573432,I'm on Observation Duty 8,2025,0.97,136,Quiz,False
+1514117,TROLEU,2025,0.97,148,Casual Simulation,False
+1419282,Smoke Break!,2025,0.99,93,Casual Puzzle,False
+1401947,Wildgate,2025,0.8,4209,Casual Role Playing Shooter,False
+1381151,The Midnight Walk,2025,0.85,1580,Action Adventure,False
+1500664,TurretGirls,2025,0.92,382,Shooter,True
+1380109,Plant Nursery Simulator,2025,0.96,159,Casual Simulation,False
+1340462,Fischer's Fishing Journey,2025,0.96,159,Action,False
+1530017,The Scouring,2025,0.91,433,Role Playing,False
+1574541,Asbury Pines,2025,0.91,433,Casual Management,True
+1586135,Volkolak: The Will of Gods,2025,0.99,92,Action Adventure,False
+1368482,Witchy Business,2025,0.92,388,Casual Role Playing,False
+1577820,DEMON DUST,2026,0.92,49,Survival Shooter,False
+1246293,Academy Love Saga: Tennis Angels,2025,1.0,73,Casual Role Playing,False
+1414341,NEKOPARA After,2025,0.93,316,Action,False
+1453793,Projected Dreams,2025,0.99,91,Casual Simulation,False
+1535627,Rekindled Trails,2025,0.99,91,Casual Role Playing,False
+1580294,Fireside Feelings,2025,0.96,157,Action,False
+1401998,Toy Smash Kaboom!,2025,0.98,120,Casual Strategy,False
+1570426,Supraworld,2025,0.89,668,Action,False
+1483110,Abyssus,2025,0.81,3022,Shooter,False
+1403767,PATAPON 1+2 REPLAY,2025,0.88,806,Tactical Hack and Slash,False
+1440677,Shooty Shooty Robot Invasion,2025,0.93,297,Shooter,False
+1394995,Mosaic of The Pharaohs,2025,0.97,144,Open World Puzzle,False
+1454682,Vigil,2025,0.87,930,Action Adventure,True
+1426993,10S FOREVER,2025,1.0,71,Arcade Shooter,False
+577732,Endless RPG - Untold Tales,2025,1.0,71,Open World Role Playing,False
+1427085,The Demons Told Me to Make This Game,2025,0.99,89,Role Playing,False
+58623,Para Eyes,2025,0.97,118,Action,True
+1673351,WorldNeverland: Elnea Kingdom,2026,0.82,1460,Casual Role Playing,False
+951119,Granvir,2025,0.91,474,Role Playing Shooter,False
+1410748,Cat Named Mojave,2025,0.96,154,Shooter,True
+1531875,The Wind and the Wisp,2025,0.99,88,Action,False
+1443245,Daymare Town,2025,0.99,88,Puzzle,False
+1480779,C.A.S.T. (CHERNOZEM ANOMALY STRIKE TEAM),2025,0.9,487,Shooter,False
+1364298,FoE Remains,2025,0.97,130,Casual Action Adventure,False
+1678870,Gorilla Simulator,2026,0.91,56,Casual Platformer,False
+1638813,DuneCrawl,2026,0.83,260,Role Playing,False
+1462210,The Art of Reflection,2025,0.98,103,Action,False
+1415914,LUNAR Remastered Collection,2025,0.91,416,Tactical Role Playing,False
+1340394,Katanaut,2025,0.94,233,Hack and Slash,True
+317094,PARANOIA PLACE,2025,0.89,678,Survival Simulation,True
+1476674,Clean Break,2025,0.99,87,Action Adventure,False
+1383774,FIND ALL 7: Japan,2025,0.96,141,Casual Puzzle,False
+664123,Le Mans Ultimate,2025,0.78,5973,Racing,False
+1616071,Dawncaster | The RPG Cardventure,2026,0.86,151,Tactical Role Playing,False
+1535266,Virtual Skate,2025,0.99,86,Casual Sport,False
+1449013,Bird Game,2025,0.96,151,Role Playing,False
+1395815,Tetris the Grand Master 4: Absolute Eye,2025,0.91,404,Casual Puzzle,False
+1466151,This Winter of Ours,2025,1.0,67,Action,False
+1535347,Kollywood: The Game,2025,0.99,85,Casual Action Adventure,False
+1431684,MoonMiners,2025,0.96,150,Role Playing,False
+118055,Paranormal Cleanup,2025,0.88,743,Survival Action Adventure,False
+1284472,THYSIASTERY,2026,0.89,88,Tactical Role Playing,False
+1471686,So to Speak,2025,0.98,100,Casual Simulation,False
+1354211,Crimson Desert,2025,0.73,13905,Action Adventure,True
+301300,3dSen,2025,0.91,381,Casual Role Playing,False
+1481501,Earthion,2025,0.93,297,Shooter,False
+1445740,DOG WITCH,2025,0.92,328,Strategy,False
+1520869,Drive Beyond Horizons,2025,0.77,6618,Casual Racing,False
+1280286,CleanFall,2025,0.96,160,Action Adventure,False
+1051934,Jotunnslayer: Hordes of Hel,2025,0.82,2621,Role Playing,True
+1583788,Bahamut and the Waqwaq Tree,2025,0.99,84,Casual Action Adventure,False
+522024,Operation Octo,2025,0.99,84,Survival Strategy,False
+1460423,Rogue Labyrinth,2025,0.99,84,Hack and Slash,True
+1400630,DREADTOME,2025,0.95,170,Shooter,False
+1538616,Firehawk FPV: Drone Fighter,2025,0.94,227,Simulation,False
+1420062,Necrophosis,2025,0.9,449,Action Adventure,False
+1421509,Tabletop Game Shop Simulator,2025,0.93,286,Management,False
+1527196,Hoomanz!,2025,1.0,65,Casual Action Adventure,False
+1523193,bygone snow,2025,1.0,65,Action,False
+1441708,BRUTAL JOHN 2,2025,0.95,189,Action,False
+1591735,Garden of Witches,2025,0.95,189,Casual Hack and Slash,False
+1531456,MoteMancer,2025,0.95,189,Open World Management,False
+419769,3dSen VR,2025,0.94,226,Casual Role Playing,False
+1511098,I Hate My Waifu Streamer,2025,0.97,124,Simulation,True
+1497001,Syrup and the Ultimate Sweet,2025,0.86,1022,Casual Role Playing,False
+1557188,The Apothecary of Trubiz,2025,0.97,111,Action,False
+1021120,Garten of Banban 8: Anti Devil,2025,0.88,775,Casual Action Adventure,False
+1437313,"Warhammer 40,000: Speed Freeks",2025,0.81,3187,Arcade Shooter,False
+1497755,Face of Another,2025,0.99,82,Survival Survival,False
+1229029,Strategos,2026,0.87,127,Tactical Turn-based Strategy,False
+652444,A Corgi's Cozy Hike,2025,1.0,64,Action,False
+1521261,Consume Me,2025,0.94,617,Role Playing,False
+936031,The Rogue Prince of Persia,2025,0.85,1235,Hack and Slash,False
+1502874,BIRDHOUSE,2025,0.96,135,Role Playing,False
+405330,INCISION,2025,0.88,745,Shooter,True
+961962,Scrabdackle,2025,0.96,143,Open World Action Adventure,False
+1446838,Keeper,2025,0.89,529,Simulation,False
+1579016,Craftlings,2026,0.86,148,Tactical City Builder,False
+1594259,Small Spaces,2025,0.9,458,Casual Simulation,False
+1426065,Best Served Cold,2025,0.93,241,Casual Role Playing,False
+1558372,Dark Hours,2025,0.85,1356,Action Adventure,False
+1466852,Claire,2025,0.99,81,Survival Simulation,True
+1524594,Love Craft,2025,0.99,81,Casual Simulation,False
+1453299,Loophole,2025,0.99,81,Action,False
+1523518,Incorporeal,2025,0.99,81,Action Adventure,False
+1443634,Simulator RKM,2025,1.0,63,Casual Role Playing,False
+1464882,Letters to Arralla,2025,0.98,96,Open World Role Playing,False
+1567904,Cowboy Life Simulator,2025,0.91,422,Open World Role Playing,False
+1593466,Saloon Simulator,2025,0.91,408,Economy Management,False
+904020,JETRUNNER,2025,0.98,95,Arcade Platformer,False
+1422102,One's Own Exile,2025,1.0,62,Puzzle,False
+1537506,Command Deck,2025,1.0,62,Strategy,False
+1532866,Go Slimey Go!,2025,1.0,62,Casual Action Adventure,False
+1533806,High On Life 2,2026,0.74,1631,Shooter,True
+1410866,Zen Aquarium,2025,0.97,108,Casual Simulation,False
+1267344,Mars Attracts,2025,0.94,193,Casual City Builder,False
+1534808,LookPilot,2025,1.0,61,Racing,False
+1041305,Restaurats,2025,0.88,647,Casual Role Playing,False
+1532439,Xenosensory,2025,0.97,107,Casual Strategy,False
+1522919,Days Without Incident,2025,0.95,163,Shooter,False
+1439237,Vampire's Best Friend,2025,1.0,60,Open World Platformer,False
+1228942,DevilConnection,2025,1.0,60,Action,False
+1421531,Welcome To The Dark Place,2025,0.91,395,Action,True
+1410416,Vietnam War,2025,0.85,1205,Action,False
+580587,Crown Gambit,2025,0.95,162,Role Playing,False
+1418244,Cosmic Tempest,2025,0.95,162,Casual Strategy,False
+1532403,Dice A Million,2025,0.9,449,Casual Strategy,False
+1019170,Monster: Titan's Playground,2025,0.94,200,Fighting,True
+1454492,Crime Simulator,2025,0.83,1775,Shooter,False
+1502855,Heartspell: Horizon Academy,2025,0.98,92,Casual Simulation,False
+1433352,PHOSIMP,2025,0.99,77,Action,False
+1496513,Ground of Aces,2025,0.88,723,Strategy,False
+1515850,Three Wishes,2025,1.0,59,Casual Simulation,False
+1538800,Sips and Sonnets,2025,1.0,59,Casual Simulation,False
+1483119,The Last Ninja Collection + Bonus Games,2025,1.0,59,Arcade Hack and Slash,False
+1387177,EarWorm,2025,0.96,129,Action,False
+1443679,Cipher Zero,2025,0.97,105,Casual Puzzle,False
+577816,Troublemaker 2: Beyond Dream,2025,0.97,105,Role Playing,False
+1538039,little corners,2025,0.96,140,Casual Simulation,False
+1481499,Dead Take,2025,0.89,562,Action,False
+1531478,Scary Game,2025,0.93,225,Action,False
+1499799,Brickadia,2025,0.86,994,Casual Shooter,False
+1408968,Emperor of the Fading Suns Enhanced,2025,0.95,150,Strategy,False
+1461930,Don't Let Me Fade,2025,1.0,58,Platformer,False
+1576716,ACUVAC: A Suck and Blow Adventure,2025,1.0,58,Action Adventure,False
+1517592,TORSO TENNIS,2025,1.0,58,Casual Sport,False
+1579425,Mala Petaka,2025,1.0,58,Shooter,True
+1538079,Hidden Cats in Spooky Village,2025,1.0,58,Action,False
+1498769,Deep Snake,2025,0.97,104,Action,False
+1575477,Berserk B.I.T.S,2025,0.9,438,Casual City Builder,False
+1441711,Wrap House Simulator,2025,0.88,666,Casual Management,False
+1021109,My Furry Protogen 3,2025,0.96,138,Casual Simulation,False
+1380515,Trainatic,2025,0.91,354,Action,False
+1585511,Ribbit Ranch,2025,0.99,75,Casual Simulation,False
+1535877,Ultimate Theater Simulator,2025,0.9,416,Simulation,False
+1512572,Momoka (wo) Wasshoi,2025,0.97,103,Casual Platformer,False
+1666403,Gargadusa's Tower,2026,0.88,78,Tactical Role Playing,False
+1450533,Cozy Crunch,2025,1.0,57,Action,False
+1496983,Syrup 2: Candy Alchemy RPG,2025,1.0,57,Tactical Role Playing,False
+1435425,Out of Sight,2025,0.91,380,Action Adventure,False
+1532360,Ambrosia Sky,2025,0.94,177,Survival Simulation,False
+1337444,Flibbius McDoogle and the Mysterious Flying Machine,2025,0.99,74,Casual Puzzle,False
+1622896,Truckin It,2026,0.9,52,Tactical Strategy,False
+1557180,Relic Guardian - Tower Defense,2025,0.95,167,Casual Role Playing,False
+1473644,Doppelpartment,2025,0.96,126,Role Playing,False
+949063,TEXNOPLAZM,2025,1.0,56,Shooter,False
+1574561,A la Card,2025,1.0,56,Strategy,False
+1629102,Brainrot Online,2026,0.89,65,Casual Platformer,False
+1347279,Net.Attack(),2026,0.85,153,Survival Strategy,False
+1533510,Not Raised By Wolves,2025,0.99,73,Action,False
+1590340,Guards II: Chaos in Hell,2025,1.0,55,Tactical Role Playing,False
+1524930,Master Lemon: The Quest for Iceland,2025,1.0,55,Role Playing,False
+157775,Primitier,2025,0.94,184,Open World Simulation,False
+1465392,Bite Night: Dine or Die,2026,0.91,46,Action,False
+905807,ShapeHero Factory,2025,0.92,283,Casual Management,False
+906688,Throne of Bone,2025,0.91,320,Strategy,False
+1466901,Hyper Chess,2025,0.92,267,Strategy,False
+1393163,Éalú,2025,0.94,183,Action,False
+1403798,MARVEL Cosmic Invasion,2025,0.85,1148,Arcade Hack and Slash,False
+1427193,Spooky Express,2025,1.0,54,Casual Strategy,False
+1424217,The Horror at Highrook,2025,0.9,374,Casual Role Playing,False
+1527976,Curiosity,2025,0.97,99,Action,False
+1534427,Electoral Carnage,2025,0.97,99,Action,False
+1431418,Blacksmith Master,2025,0.85,1032,Open World City Builder,False
+1511623,Ascend From Nine Mountains,2025,0.96,122,Role Playing,False
+1398766,Pocket City 2,2025,0.89,501,Casual Management,False
+1608683,Wizard Pool,2026,0.9,51,Casual Sport,False
+1448136,Sunfluffs,2025,1.0,53,Platformer,False
+1520574,[HERROR] Gas Station Case,2026,0.9,53,Casual Simulation,False
+1589841,NoSlack Pets: Lo-Fi Paws,2025,1.0,53,Casual Simulation,False
+1245272,Puzzle Depot,2025,1.0,53,Puzzle,False
+1397671,"Shooters, Ready!",2025,0.98,85,Tactical Shooter,False
+1579162,Falling Face Fragments,2025,0.98,85,Casual Puzzle,False
+1305804,Lovish,2026,0.88,73,Casual Platformer,False
+1407168,SNAILSHOCK GRAND SUPREME TOURNAMENT,2025,0.96,118,Casual Sport,False
+1515896,Spartan Survivors,2025,0.92,263,Action,False
+869116,NODE: The Last Favor of the Antarii,2025,0.96,121,Platformer,False
+1483981,KILLOVER,2025,0.96,117,Arcade Shooter,False
+1557134,Goblin Goopmaxxing,2025,1.0,52,Simulation,True
+1431833,Kulebra and the Souls of Limbo,2025,0.94,170,Action Adventure,False
+1493314,Inkshade,2025,0.89,517,Role Playing,False
+1493899,PAC-MAN WORLD 2 Re-PAC,2025,0.9,374,Arcade Action Adventure,False
+1425870,Bioprototype,2025,0.91,328,Tactical Hack and Slash,False
+1532781,UMAMI,2025,0.98,84,Casual Puzzle,False
+1281429,Fearbonding,2025,0.97,97,Casual Simulation,False
+1265384,Pale Coins,2025,0.95,151,Open World Hack and Slash,False
+1510570,Backyard Football '99,2025,0.95,151,Casual Sport,False
+1593577,DEFRAG,2025,0.95,151,Casual Strategy,False
+1396224,Discussion Over Dinner,2025,0.93,205,Casual Real-time Strategy,False
+1516572,YogLabs: Testing Initiative,2025,0.99,69,Action,False
+905339,The Warrior,2025,0.99,69,Platformer,False
+1340372,Monday Syndrome,2026,0.89,57,Casual Hack and Slash,False
+1532211,Supercar Collection Simulator,2025,0.88,533,Casual Racing,False
+1421964,Two the Top,2025,1.0,51,Action Adventure,False
+1416930,Explosive Odds,2025,1.0,51,Action,False
+1538306,Unsent,2025,1.0,51,Casual Action Adventure,False
+1383629,The Electrifying Incident,2025,0.96,108,Puzzle,False
+1441892,Aesop Rock's Black Hole Superette Experience,2025,0.96,108,Casual Puzzle,False
+1441770,hate.net,2025,0.97,96,Arcade Shooter,False
+1074866,Cats Hidden Around the World 2,2025,0.97,96,Casual Puzzle,False
+1440067,7 Jobs at the Same Time,2025,0.95,140,Casual Simulation,False
+1472082,Drill Core,2025,0.86,865,City Builder,False
+1397485,"Ship, Inc.",2025,0.85,973,Casual Strategy,False
+1558422,Tong,2025,0.78,4026,Action,False
+1545789,ILA: A Frosty Glide,2025,0.99,68,Open World Role Playing,False
+1410014,This is Interesting,2025,0.99,68,Role Playing,False
+1400743,Constance,2025,0.86,926,Open World Platformer,False
+1428229,Cats & Cups,2025,0.9,405,Casual Strategy,False
+1598946,The Test: Reimagined,2026,0.87,92,Casual Simulation,False
+1514106,LEGO Voyagers,2025,0.84,1244,Casual Platformer,False
+1281253,Kitty's Last Adventure,2025,0.99,67,Casual Shooter,False
+1434502,Lost For Swords,2025,0.9,342,Role Playing,False
+1546858,PURARGER COLLECTOR!!,2025,0.98,74,Simulation,False
+905254,Rosewater,2025,0.91,307,Action Adventure,False
+1519771,Celestial Empire,2025,0.93,201,Economy City Builder,False
+1565062,Silly Polly Beast,2025,0.88,591,Role Playing Shooter,False
+1490210,Stackflow,2025,0.98,81,Action,False
+1534726,MR FARMBOY,2026,0.84,163,Casual Management,False
+1515467,skate.,2025,0.65,52064,Casual Sport,False
+1531174,Cataclysm: The Last Generation,2025,0.95,147,Role Playing,False
+1523423,Raise the Colours,2025,0.95,147,Action,False
+1589586,Anode Heart: Layer Null,2025,0.95,137,Role Playing,False
+1350941,GIRLS MADE PUDDING,2025,0.96,105,Role Playing,False
+1609569,OH DEMON! Fix my TV,2026,0.89,56,Puzzle,False
