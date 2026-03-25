@@ -8,7 +8,7 @@ df = pd.json_normalize(data)
 
 df = df.drop(columns=['screenshots', 'micro_trailer', 'gameplay', 'short_description', 'image', 'link'])
 
-df = df[['id', 'name', 'year', 'rating.mean', 'rating.count']]
+df = df[['id', 'name', 'year', 'rating.mean', 'rating.count', 'genre', 'adult_only',]]
 
 df['year'] = df['year'].astype(int)
 df['rating.count'] = df['rating.count'].astype('Int64')
