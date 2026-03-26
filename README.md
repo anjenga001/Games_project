@@ -11,7 +11,7 @@ This is an end to end pipeline that gets data from an API, transforms it using p
 - Git
 
 ## ETL Process
-###Extract
+### Extract
 Pulled data from gameBrain API (https://gamebrain.co/). Pulled all pc game data from past year and    used 'time.sleep' to limit time between requests(API constraint). Data stored as JSON. API requires access key so made use of '.env' file.
 
 ### Transform
